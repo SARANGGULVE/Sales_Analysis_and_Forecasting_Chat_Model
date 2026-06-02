@@ -1,0 +1,10 @@
+# Secrets / credentials — never commit
+.env
+*.json
+!*.example.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/

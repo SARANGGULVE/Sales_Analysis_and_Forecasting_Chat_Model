@@ -1,0 +1,11 @@
+google-cloud-bigquery
+google-cloud-bigquery-storage
+db-dtypes
+pandas
+xgboost
+langchain-ollama
+langchain-core
+plotly
+kaleido
+python-dotenv
+streamlit
